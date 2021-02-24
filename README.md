@@ -1,4 +1,4 @@
 # kosti
 https://evgeniiatyourservice.github.io/kosti/
 
-Javascript & DOM практика
+Javascript & DOM practice
